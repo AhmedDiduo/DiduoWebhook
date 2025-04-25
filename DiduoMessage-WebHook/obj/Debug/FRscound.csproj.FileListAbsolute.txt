@@ -1,0 +1,10 @@
+C:\Users\Diduo_sa\source\repos\FRscound\FRscound\bin\Debug\FRscound.exe.config
+C:\Users\Diduo_sa\source\repos\FRscound\FRscound\bin\Debug\FRscound.exe
+C:\Users\Diduo_sa\source\repos\FRscound\FRscound\bin\Debug\FRscound.pdb
+C:\Users\Diduo_sa\source\repos\FRscound\FRscound\obj\Debug\FRscound.Form1.resources
+C:\Users\Diduo_sa\source\repos\FRscound\FRscound\obj\Debug\FRscound.Properties.Resources.resources
+C:\Users\Diduo_sa\source\repos\FRscound\FRscound\obj\Debug\FRscound.csproj.GenerateResource.cache
+C:\Users\Diduo_sa\source\repos\FRscound\FRscound\obj\Debug\FRscound.csproj.CoreCompileInputs.cache
+C:\Users\Diduo_sa\source\repos\FRscound\FRscound\obj\Debug\FRscound.exe
+C:\Users\Diduo_sa\source\repos\FRscound\FRscound\obj\Debug\FRscound.pdb
+C:\Users\Diduo_sa\source\repos\FRscound\FRscound\obj\Debug\FRscound.csproj.AssemblyReference.cache
